@@ -2,16 +2,16 @@ Proudly, a Full Stack Engineer [@Triad](https://github.com/Triad-Behavioral-Heal
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 December 2022 - To: 19 January 2023
+From: 16 December 2022 - To: 20 January 2023
 
-Total Time: 22 hrs 52 mins
+Total Time: 24 hrs 15 mins
 
-TypeScript       8 hrs 33 mins   █████████▒░░░░░░░░░░░░░░░   37.41 %
-JavaScript       6 hrs 10 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.02 %
-HTML             3 hrs           ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
-SCSS             2 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
-Svelte           1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
-JSON             41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+TypeScript       8 hrs 33 mins   ████████▓░░░░░░░░░░░░░░░░   35.27 %
+JavaScript       7 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   29.43 %
+HTML             3 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+SCSS             2 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+Svelte           1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+JSON             42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:waka-->
