@@ -2,7 +2,7 @@ Proudly, a Full Stack Engineer [@Triad](https://github.com/Triad-Behavioral-Heal
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 December 2022 - To: 23 January 2023
+From: 16 December 2022 - To: 24 January 2023
 
 Total Time: 27 hrs 7 mins
 
