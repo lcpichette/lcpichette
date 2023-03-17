@@ -1,4 +1,7 @@
 Proudly, a Full Stack Engineer [@Triad](https://github.com/Triad-Behavioral-Health).
+
+Founder and Developer @[Gold Fox Dev](https://goldfoxdev.com/)
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -16,4 +19,3 @@ JSON             2 hrs 42 mins   ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-Founder and Developer @[Gold Fox Dev](https://goldfoxdev.com/)
