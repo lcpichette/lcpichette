@@ -15,3 +15,5 @@ JSON             2 hrs 42 mins   ▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+Founder and Developer @[Gold Fox Dev](https://goldfoxdev.com/)
