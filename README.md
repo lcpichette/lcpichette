@@ -9,16 +9,16 @@ Founder and Developer [@Gold Fox Dev](https://goldfoxdev.com/)
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 December 2022 - To: 21 March 2023
+From: 16 December 2022 - To: 22 March 2023
 
-Total Time: 96 hrs 52 mins
+Total Time: 98 hrs 9 mins
 
-TypeScript       41 hrs 59 mins  ███████████░░░░░░░░░░░░░░   43.35 %
-JavaScript       24 hrs 15 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.05 %
-Svelte           12 hrs 20 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
-HTML             8 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-SCSS             3 hrs 37 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-JSON             2 hrs 56 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+TypeScript       42 hrs 1 min    ██████████▓░░░░░░░░░░░░░░   42.81 %
+JavaScript       25 hrs 1 min    ██████▒░░░░░░░░░░░░░░░░░░   25.50 %
+Svelte           12 hrs 20 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+HTML             9 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+SCSS             3 hrs 38 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+JSON             2 hrs 56 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 ```
 
 <!--END_SECTION:waka-->
