@@ -12,5 +12,4 @@
   <li><a href="https://goldfoxdev.com/">Gold Fox Dev</a> | Feb '20, Present</li>
 </ul>
 
-<img src="https://user-images.githubusercontent.com/54318714/225983255-0c895a5b-169a-4e0a-a76a-bc59bc7ee2d7.png" height=80 />
-
+<img src="https://user-images.githubusercontent.com/54318714/233686633-7ce2fbda-66c6-4c58-ab2c-9a55c551cd52.png" height=180 />
