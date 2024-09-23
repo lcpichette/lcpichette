@@ -5,7 +5,8 @@
 
 ----
 
-![Frame 3](https://user-images.githubusercontent.com/54318714/233517307-27e2d2d7-c6a3-4f50-8168-d5c9f256fe39.png)
+![Frame 3](https://github.com/user-attachments/assets/8f451094-76ae-429c-9e35-948f2312bdc4)
+
 
 <ul>
   <li><a href="https://www.triadhq.com/">Triad</a> | Mar '22, Present</li>
