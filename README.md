@@ -5,8 +5,31 @@
 
 ----
 
+The above is a statement I live by. This foundation, seen as concisely as I've been able to make it in the above, I built myself largely influenced by the following quotes:
+
+> "We are what we repeatedly do. Excellence, then, is not an act but a habit."
+> — Will Durant (paraphrasing Aristotle)
+
+> "The man who moves a mountain begins by carrying away small stones."
+> — Confucius
+
+> "Act without expectation."
+> — Lao Tzu
+
+> "Become who you are."
+> — Friedrich Nietzsche
+
+Ultimatey we need discipline to start, the consistency to take each step required to get to our goal, and the patience to complete the long journey. I sincerely believe that this journey isn't worthwhile if there are ulterior motives associated to it -- it simply must be, because it is what you are. I believe it is this deeper alignment of self to growth which is the glue that keeps these pieces together.
+
+----
+
+### Who I Work For
+<br/>
+<br/>
+
 ![Frame 3](https://github.com/user-attachments/assets/8f451094-76ae-429c-9e35-948f2312bdc4)
 
+<br/>
 
 <ul>
   <li><a href="https://www.triadhq.com/">Triad</a> | Mar '22, Present</li>
