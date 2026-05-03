@@ -35,9 +35,9 @@ Lastly, I want to elaborate on my definition of Discipline. As it's a bit differ
 <br/>
 
 <ul>
-  <li><a href="https://www.triadhq.com/">Midwestern</a> | April '25, Present</li>
+  <li><a href="https://www.crshmarket.com/">CRSH Market</a> | Aug '25, Present</li>
+  <li><a href="https://www.triadhq.com/">Midwestern</a> | April '25, Aug '25</li>
   <li><a href="https://www.triadhq.com/">Triad</a> | Mar '22, Feb '25</li>
-  <li><a href="https://goldfoxdev.com/">Gold Fox Dev</a> | Feb '20, Present</li>
 </ul>
 
 <img src="https://user-images.githubusercontent.com/54318714/233686633-7ce2fbda-66c6-4c58-ab2c-9a55c551cd52.png" height=180 />
