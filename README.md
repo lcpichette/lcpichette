@@ -28,8 +28,6 @@ Lastly, I want to elaborate on my definition of Discipline. As it's a bit differ
 ### Who I Work For
 <br/>
 
-<img src="https://github.com/user-attachments/assets/1903376e-2d0d-4319-86fb-255391eae0c4" width=250 height=100 />
-
 <p></p>
 
 <br/>
